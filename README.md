@@ -1,5 +1,4 @@
 # MAPS-WG
-# Metadata Application Profiles created by the PCC MAPs Working Group
 The PCC Working Group on Metadata Application Profiles is charged to:
   * Oversee the creation and maintenance of PCC Metadata Application Profiles that meet the following criteria:
     * Represent a “floor” for PCC metadata descriptions
@@ -16,7 +15,10 @@ The PCC Working Group on Metadata Application Profiles is charged to:
   * Communicate with and perform outreach to stakeholders (library services platform and discovery service vendors, data remediation services, other creators of profiles in the cultural heritage sector)
   * After the development of BIBFRAME base profiles, the group may explore other data models for PCC use, in consultation with PoCo via SCS chairs.
 
+# Metadata Application Profiles created by the PCC MAPs Working Group
 This site provides access to the following:
-  * Sinopia templates for cataloging according to PCC standards
+  * Sinopia templates for cataloging according to PCC standards:
+    * books
+    * serials
   * human-readable spreadsheet versions of those templates
   * other MAPs as are ready for use (currently working on BSR for Official RDA)
